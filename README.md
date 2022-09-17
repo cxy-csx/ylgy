@@ -7,13 +7,13 @@ UP主：逍遥编程
 
 程序员陈师兄
 
-![image-20220917135138621](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220917135138621.png)
+![image-20220917205413191](https://files.mdnice.com/user/16325/886fef21-d677-400a-96ff-3df1a9f35c87.png)
 
 演示教程
 
 
 
-![image-20220917204549726](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220917204549726.png)
+![image-20220917204549726](https://files.mdnice.com/user/16325/cbe36479-283d-4eeb-b496-5f6929b0937f.png)
 
 1.修改通关次数（√）
 
