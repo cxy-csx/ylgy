@@ -3,7 +3,7 @@
 
 UP主：逍遥编程
 
-视频链接：待上传
+视频链接：https://www.bilibili.com/video/bv1ee411M778
 
 程序员陈师兄
 
